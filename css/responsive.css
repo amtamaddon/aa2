@@ -1,0 +1,1118 @@
+/* 
+   ------------------------------------------------------
+					Responsive Styles
+   ------------------------------------------------------
+*/
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+/*------------------------------------------*/
+/*	SECTION HEIGHT SETTINGS
+/*------------------------------------------*/
+
+.wide { padding-top: 100px; padding-bottom: 100px; }
+#banner-1 { padding-top: 130px; padding-bottom: 130px; }
+#features.wide { padding-bottom: 60px; }
+#more-features { padding-top: 100px; }
+#testimonials.wide { padding-bottom: 80px; }
+#team.wide { padding-bottom: 50px; }
+#call-to-action { padding-top: 220px; padding-bottom: 220px; }
+#faqs.wide { padding-bottom: 70px; }
+#contacts.wide { padding-bottom: 80px; } 
+
+/*------------------------------------------*/
+/*	 BUTTON SETTINGS
+/*------------------------------------------*/
+
+.btn { margin-top: 20px; }	
+
+/*------------------------------------------*/
+/*	 SECTION TITLEBAR
+/*------------------------------------------*/
+
+.section-title h3 { font-size: 28px; line-height: 36px; }
+.section-title p { font-size: 17px;line-height: 24px;margin-bottom: 60px;padding: 0 15%;}
+
+/*------------------------------------------*/
+/*	 INTRO SLIDE TEXT
+/*------------------------------------------*/
+
+#intro h2 {	font-size: 58px; line-height: 58px; }
+#intro h3 {	font-size: 28px; line-height: 28px; }
+
+/*------------------------------------------*/
+/*	 TOP LINE BOX BOX
+/*------------------------------------------*/
+
+.top-line-box p { padding: 0; }
+
+/*------------------------------------------*/
+/*	  ABOUT SECTION TITLE
+/*------------------------------------------*/  
+
+#about .section-title { margin-bottom: 20px; } 
+
+/*------------------------------------------*/
+/*	  ABOUT SECTION TEXT
+/*------------------------------------------*/ 
+ 
+.about-text { padding-right: 15px; }
+
+/*------------------------------------------*/
+/*	ABOUT IMAGE
+/*------------------------------------------*/
+
+.about-image { margin-top: 40px; }
+
+/*------------------------------------------*/
+/*	TAB #2 LIST
+/*------------------------------------------*/  
+
+#tab-pane-list li { font-size: 15px; font-weight: 400; line-height: 22px; margin-bottom: 10px; }   
+
+/*------------------------------------------*/
+/*	 BANNER-1 TEXT
+/*------------------------------------------*/
+
+.banner-1-text {padding: 60px 40px; }
+
+/*------------------------------------------*/
+/*	  FEATURE BOX
+/*------------------------------------------*/
+
+.feature-box { margin-bottom: 40px; }
+
+/*------------------------------------------*/
+/*	  FEATURE BOX TEXT
+/*------------------------------------------*/
+
+.feature-box-text { padding-right: 10px; }
+
+/*------------------------------------------*/
+/*	 PROMO BANNER TEXT
+/*------------------------------------------*/
+
+#promo-banner h3 { padding: 0 5%; }
+
+/*------------------------------------------*/
+/*	  LEFT SIDE CONTENT 
+/*------------------------------------------*/
+
+#features_left_content { padding-right: 20px; }
+
+/*------------------------------------------*/
+/*	  RIGHT SIDE CONTENT
+/*------------------------------------------*/
+
+#features_right_content { padding-left: 20px; }
+
+/*------------------------------------------*/
+/*	  More Features Box
+/*------------------------------------------*/
+
+.m-feature-box { margin-top: 30px;}
+
+/*------------------------------------------*/
+/*	  BANNER TITLE 
+/*------------------------------------------*/ 
+
+#founder-banner .section-title { margin-top: 0px; margin-bottom: 20px; }
+
+/*------------------------------------------*/
+/*	  PORTFOLIO TITLE 
+/*------------------------------------------*/ 
+
+#portfolio .section-title p { margin-bottom: 40px; }
+
+/*------------------------------------------*/
+/*	  FOUNDER BANNER MESSAGE
+/*------------------------------------------*/ 
+
+.fb-message { margin-top: 30px; }
+
+/*------------------------------------------*/
+/*	  FOUNDER BANNER TEXT
+/*------------------------------------------*/ 
+
+.fb-text { padding-right: 15px; }
+
+/*------------------------------------------*/
+/*	  FOUNDER BANNER MESSAGE TEXT
+/*------------------------------------------*/ 
+
+.fb-message-text { padding-left: 130px; }
+
+/*------------------------------------------*/
+/*	  STATISTIC BLOCK
+/*------------------------------------------*/ 
+
+.statistic-number { font-size: 55px; line-height: 55px; }
+
+/*------------------------------------------*/
+/*	 Table Header
+/*------------------------------------------*/
+
+.pricing-table h3 { font-size: 20px; }
+
+/*------------------------------------------*/
+/*	 Table Price Plan
+/*------------------------------------------*/
+
+.pricing-table .price span { font-size: 80px; }
+.pricing-table .price sup { font-size: 40px; }
+	
+/*------------------------------------------*/
+/*	 Table Body
+/*------------------------------------------*/
+
+.pricing-table ul.features { font-size: 15px; padding: 5px 30px; }
+
+/*------------------------------------------*/
+/*	 Testimonial Message Text
+/*------------------------------------------*/
+
+.client-msg p { font-size: 26px; line-height: 36px; padding: 10px 5%; }
+
+/*------------------------------------------*/
+/*	  Blog Post Titlebar
+/*------------------------------------------*/ 
+
+.blog-post-titlebar h4 { margin-bottom: 5px; }
+
+/*------------------------------------------*/
+/*	  Blog Post Meta
+/*------------------------------------------*/ 
+
+.blog-post-info { margin-bottom: 10px; }
+
+/*------------------------------------------*/
+/*	  Blog Post Description
+/*------------------------------------------*/ 
+
+.blog-post-desc p { margin-bottom: 10px; }
+
+/*------------------------------------------*/
+/*	  NEWSLETTER FORM
+/*------------------------------------------*/
+
+#newsletter { padding: 0 60px; }
+
+/*------------------------------------------*/
+/*	 CALL TO ACTION TEXT
+/*------------------------------------------*/
+
+#call-to-action h2 { font-size: 48px; line-height: 48px; }
+#call-to-action p { font-size: 22px; line-height: 22px; }
+
+/*------------------------------------------*/
+/*	  FAQs Question
+/*------------------------------------------*/
+
+.question h5 { font-size: 16px; line-height: 22px; }
+
+/*------------------------------------------*/
+/*	  CONTACT INFO 
+/*------------------------------------------*/
+
+#contact-info { padding-right: 30px; }
+.contact-data { margin-bottom: 20px;}
+.contact-data p { font-size: 15px; line-height: 20px; }
+
+/*------------------------------------------*/
+/*	  GOOGLE MAP
+/*------------------------------------------*/
+
+#google-map { padding: 0px 0px 90%; margin-bottom: 30px; }
+	
+}
+
+
+
+@media only screen and (max-width: 991px) {
+
+/*------------------------------------------*/
+/*	SECTION HEIGHT SETTINGS
+/*------------------------------------------*/
+
+.wide { padding-top: 100px; padding-bottom: 100px; }
+#banner-1 { padding-top: 130px; padding-bottom: 130px; }
+#features.wide { padding-bottom: 60px; }
+#more-features { padding-top: 100px; padding-bottom: 100px; }
+#testimonials.wide { padding-bottom: 80px; }
+#team.wide { padding-bottom: 50px; }
+#call-to-action { padding-top: 220px; padding-bottom: 220px; }
+#faqs.wide { padding-bottom: 70px; }
+#contacts.wide { padding-bottom: 80px; } 
+
+/*------------------------------------------*/
+/*	 BUTTON SETTINGS
+/*------------------------------------------*/
+
+.btn { padding: 16px 32px; margin-top: 20px; }	
+.btn.btn-small { padding: 13px 26px; }
+
+/*------------------------------------------*/
+/*	 SECTION TITLEBAR
+/*------------------------------------------*/
+
+.section-title h3 { font-size: 28px; line-height: 36px; }
+.section-title p { font-size: 17px;line-height: 24px; margin-bottom: 60px; padding: 0 10%; }
+
+/*------------------------------------------*/
+/*	 INTRO SLIDE TEXT
+/*------------------------------------------*/
+
+#intro h2 {	font-size: 48px; line-height: 48px; }
+#intro h3 {	font-size: 25px; line-height: 25px; }
+
+/*------------------------------------------*/
+/*	 TOP LINE
+/*------------------------------------------*/
+
+#top-line { padding-bottom: 20px; }
+
+/*------------------------------------------*/
+/*	 TOP LINE BOX
+/*------------------------------------------*/
+
+.top-line-box { margin-bottom: 40px; }
+.top-line-box p {padding: 0 10%;}
+
+/*------------------------------------------*/
+/*	 ABOUT SECTION TEXT 
+/*------------------------------------------*/
+
+.about-text { padding-right: 15px; margin-bottom: 30px;}
+
+/*------------------------------------------*/
+/*	TABS NAV
+/*------------------------------------------*/   
+
+#who-we-are .tabs-nav { margin-top: 30px; }
+#who-we-are .nav-tabs > li { padding-right: 0px; }
+
+/*------------------------------------------*/
+/*	TAB #1 CONTENT
+/*------------------------------------------*/  
+
+#tab_1 .col-md-5 { margin-bottom: 30px; }
+
+/*------------------------------------------*/
+/*	TAB #2 CONTENT
+/*------------------------------------------*/  
+
+#tab_2 #tab-pane-list { margin-bottom: 30px; }
+
+/*------------------------------------------*/
+/*	TAB #4 CONTENT
+/*------------------------------------------*/  
+
+#tab_4 .col-md-4 { margin-bottom: 30px; }
+
+/*------------------------------------------*/
+/*	 BANNER-1 TEXT
+/*------------------------------------------*/
+
+.banner-1-text {padding: 60px 30px; }
+
+/*------------------------------------------*/
+/*	  FEATURE BOX TEXT
+/*------------------------------------------*/
+
+.feature-box-text { padding-right: 0px; }
+
+/*------------------------------------------*/
+/*	 PROMO BANNER TEXT
+/*------------------------------------------*/
+
+#promo-banner h3 { padding: 0; }
+
+/*------------------------------------------*/
+/*	  MORE FEATURES TITLE
+/*------------------------------------------*/
+
+#more-features .section-title p { margin-bottom: 30px;  }
+
+/*------------------------------------------*/
+/*	  More Feature Box Icon
+/*------------------------------------------*/
+
+.m-feature-box i { display: none;}
+
+/*------------------------------------------*/
+/*	  MORE FEATURES
+/*------------------------------------------*/ 
+
+#features_left_content, #features_right_content { text-align: center; padding: 0 15%; }
+
+/*------------------------------------------*/
+/*	  More Features Box
+/*------------------------------------------*/
+
+.m-feature-box { margin-top: 25px; }
+
+/*------------------------------------------*/
+/*	 MORE FEATURES IMAGE
+/*------------------------------------------*/
+
+#more_features_image .img-responsive { display: none; }
+
+/*------------------------------------------*/
+/*	  PORTFOLIO TITLE
+/*------------------------------------------*/ 
+
+#portfolio .section-title p { margin-bottom: 40px; }
+
+/*------------------------------------------*/
+/*	  FOUNDER BANNER TEXT
+/*------------------------------------------*/ 
+
+.fb-text { padding-right: 15px; }
+
+/*------------------------------------------*/
+/*	  FOUNDER BANNER MESSAGE
+/*------------------------------------------*/ 
+
+.fb-message { margin-bottom: 40px; }
+
+/*------------------------------------------*/
+/*	  STATISTIC BLOCK
+/*------------------------------------------*/ 
+
+.statistic-number { font-size: 55px; line-height: 55px; }
+.statistic-block h4 { font-size: 14px; }
+
+/*------------------------------------------*/
+/*	 PRICING
+/*------------------------------------------*/
+
+#price_3, #price_1 { padding-left: 0; padding-right: 0; }
+
+/*------------------------------------------*/
+/*	 Table Header
+/*------------------------------------------*/
+
+.pricing-table h3 { font-size: 18px; }	
+
+/*------------------------------------------*/
+/*	 Table Price Plan
+/*------------------------------------------*/
+
+.pricing-table .price { height: 110px; line-height: 110px; }
+
+/*------------------------------------------*/
+/*	 Table Price Plan
+/*------------------------------------------*/
+
+.pricing-table .price span { font-size: 68px; letter-spacing: -2px; }
+.pricing-table .price sup { font-size: 35px; }
+
+/*------------------------------------------*/
+/*	 Table Body
+/*------------------------------------------*/
+
+.pricing-table ul.features { font-size: 14px;  padding: 5px 30px; }
+
+/*------------------------------------------*/
+/*	 Testimonial Message Text
+/*------------------------------------------*/
+
+.client-msg p { font-size: 24px; line-height: 34px; padding: 10px 0; }
+
+/*------------------------------------------*/
+/*	 BLOG SECTION TITLEBAR
+/*------------------------------------------*/ 
+   
+#blog .section-title { margin-bottom: 40px; } 
+#blog .section-title h3 { padding: 0; }
+
+/*------------------------------------------*/
+/*	 BLOG POST IMAGE
+/*------------------------------------------*/ 
+
+.blog-post-img, .blog-post-video { width: 100%; display: block; float: none; }
+
+/*------------------------------------------*/
+/*	 BLOG POST DESCRIPTION
+/*------------------------------------------*/ 
+
+.blog-post-text { width: 100%; display: block; margin-top: 10px; padding-left: 0px;}
+
+/*------------------------------------------*/
+/*	  Blog Post Titlebar
+/*------------------------------------------*/ 
+
+.blog-post-titlebar h4 { line-height: 20px; margin-top: 15px; margin-bottom: 5px; }
+
+/*------------------------------------------*/
+/*	  Blog Post Meta
+/*------------------------------------------*/ 
+
+.blog-post-info { margin-bottom: 10px; }
+
+/*------------------------------------------*/
+/*	  Blog Post Description
+/*------------------------------------------*/ 
+
+.blog-post-desc p { margin-bottom: 10px; }
+
+/*------------------------------------------*/
+/*	  Blog Video Post Settings
+/*------------------------------------------*/ 
+
+.blog-post-video { padding-bottom: 90.25%; }
+
+/*------------------------------------------*/
+/*	  NEWSLETTER FORM
+/*------------------------------------------*/
+
+#newsletter { padding: 0 12%; }
+
+/*------------------------------------------*/
+/*	 CALL TO ACTION TEXT
+/*------------------------------------------*/
+
+#call-to-action h2 { font-size: 42px; line-height: 42px; }
+#call-to-action p { font-size: 20px; line-height: 20px; }
+
+/*------------------------------------------*/
+/*	  FAQs TITLE
+/*------------------------------------------*/
+
+#faqs .section-title p { margin-bottom: 30px;  }
+
+/*------------------------------------------*/
+/*	  FAQs Question
+/*------------------------------------------*/
+
+#faqs_column_1 {margin-top: 40px;}
+
+/*------------------------------------------*/
+/*	  FAQs Question
+/*------------------------------------------*/
+
+.question h5 { font-size: 16px; line-height: 22px; }
+
+/*------------------------------------------*/
+/*	  CONTACT INFO 
+/*------------------------------------------*/
+
+#contact-info { padding-right: 15px; }
+
+/*------------------------------------------*/
+/*	  CONTACT FORM
+/*------------------------------------------*/
+
+#contact-form { margin-bottom: 40px; }
+
+/*------------------------------------------*/
+/*	  GOOGLE MAP
+/*------------------------------------------*/
+
+#google-map-holder { margin-top: 0px;}
+#google-map { padding: 0px 0px 40%; }
+
+/*------------------------------------------*/
+/*	 FOOTER CONTACT INFO  
+/*------------------------------------------*/
+
+#footer .col-md-6 { width: 100%; float: none !important; text-align: center; }
+#footer-social { margin-top: 10px;}
+
+}
+
+
+
+@media only screen and (max-width: 767px) {
+
+#top-line, #about, #who-we-are, #banner-1, #features, #promo-banner, #more-features, #portfolio, #founder-banner, 
+#statistic-banner, #pricing, #testimonials, #team, #blog, #call-to-action, #clients-holder, #faqs, #contacts, #footer  { padding-left: 30px; padding-right: 30px; }
+
+/*------------------------------------------*/
+/*	SECTION HEIGHT SETTINGS
+/*------------------------------------------*/
+
+.wide { padding-top: 80px; padding-bottom: 80px; }
+#banner-1 { padding-top: 110px; padding-bottom: 110px; }
+#features.wide { padding-bottom: 60px; }
+#more-features { padding-top: 80px; padding-bottom: 80px; }
+#testimonials.wide { padding-bottom: 90px; }
+#team.wide { padding-bottom: 60px; }
+#call-to-action { padding-top: 200px; padding-bottom: 200px; }
+#faqs.wide { padding-bottom: 50px; }
+#contacts.wide { padding-bottom: 60px; } 
+
+/*------------------------------------------*/
+/*	HEADERS
+/*------------------------------------------*/
+
+h4 { font-size: 14px; line-height: 14px; }
+
+/*------------------------------------------*/
+/*	 BUTTON SETTINGS
+/*------------------------------------------*/
+
+.btn { padding: 14px 28px; }	
+.btn.btn-small { font-size: 13px; padding: 12px 24px; }
+
+/*------------------------------------------*/
+/*	 SECTION TITLEBAR
+/*------------------------------------------*/
+
+.section-title h4 { font-size: 13px; margin-bottom: 10px; }
+.section-title h3 { font-size: 24px; line-height: 30px; }
+.section-title p { font-size: 16px;line-height: 24px; margin-bottom: 40px; padding: 0 6%; }	
+
+/*------------------------------------------*/
+/*	 Logo Image    
+/*------------------------------------------*/
+
+.navbar-brand { padding: 25px 30px; }
+
+/*------------------------------------------*/
+/*	 Responsive Menu
+/*------------------------------------------*/
+	
+.navbar-nav { background: #f9f9f9; margin-top: 0; margin-bottom: 0; border-top: 1px solid #ddd; }	
+.navbar-nav > li { text-align: center; }
+.navbar-nav > li > a { color: #333; line-height: 40px; text-align: center; }
+
+/*------------------------------------------*/
+/*	 INTRO TEXT
+/*------------------------------------------*/
+
+#intro h2 {	font-size: 36px; line-height: 36px; margin-bottom: 8px; }
+#intro h3 { font-size: 22px; line-height: 22px; letter-spacing: 2px;  }
+
+/*------------------------------------------*/
+/*	 SLIDE BUTTONS
+/*------------------------------------------*/
+
+.intro_buttons { margin-top: 20px; }
+
+/*------------------------------------------*/
+/*	 SLIDES NAVIGATION  
+/*------------------------------------------*/
+	
+.slides-navigation .next.fa-angle-right { font-size: 60px; margin-right: 20px; }
+.slides-navigation .prev.fa-angle-left { font-size: 60px;  margin-left: 20px; }
+
+/*------------------------------------------*/
+/*	TABS CONTENT
+/*------------------------------------------*/  
+
+#who-we-are .tab-content h3 { font-size: 13px; line-height: 20px; }
+
+/*------------------------------------------*/
+/*	  FEATURE BOX
+/*------------------------------------------*/
+
+.feature-box { margin-bottom: 40px; margin-left: 40px; margin-right: 40px; }
+
+/*------------------------------------------*/
+/*	 Portfolio Item 
+/*------------------------------------------*/
+
+.portfolio-item { width: 100%; float: none !important; }
+.portfolio-item:hover .overlay-content { bottom: 48%; }
+
+/*------------------------------------------*/
+/*	  STATISTIC BLOCK
+/*------------------------------------------*/ 
+
+.statistic-block { margin-bottom: 40px; }
+.statistic-block:last-child { margin-bottom: 0; }
+
+/*------------------------------------------*/
+/*	 Testimonial Message Text
+/*------------------------------------------*/
+
+.client-msg p { font-size: 22px; line-height: 32px; padding: 10px 0; }
+
+/*------------------------------------------*/
+/*	 PRICING
+/*------------------------------------------*/
+
+#price_1, #price_2 { padding-left: 15px; padding-right: 15px; margin-bottom: 40px }
+#price_3  { padding-left: 15px; padding-right: 15px; }
+.pricing-table {margin: 0 60px; }
+
+/*------------------------------------------*/
+/*	 Table Header
+/*------------------------------------------*/
+
+.pricing-table h3 { font-size: 20px; }	
+
+/*------------------------------------------*/
+/*	 Table Price Plan
+/*------------------------------------------*/
+
+.pricing-table .price { height: 120px; line-height: 120px; }
+
+/*------------------------------------------*/
+/*	 Table Price Plan
+/*------------------------------------------*/
+
+.pricing-table .price span { font-size: 70px; letter-spacing: -2px; }
+.pricing-table .price sup { font-size: 40px; }
+
+/*------------------------------------------*/
+/*	 Table Body
+/*------------------------------------------*/
+
+.pricing-table ul.features { font-size: 15px;  padding: 5px 40px; }
+
+/*------------------------------------------*/
+/*	 TEAM
+/*------------------------------------------*/
+
+.team-member { margin-left: 30px; margin-right: 30px; }
+
+/*------------------------------------------*/
+/*	  Blog Video Post Settings
+/*------------------------------------------*/ 
+
+.blog-post-video { padding-bottom: 62.25%; }
+
+/*------------------------------------------*/
+/*	  NEWSLETTER FORM
+/*------------------------------------------*/
+
+#newsletter { padding: 0 10%; }
+
+/*------------------------------------------*/
+/*	 CALL TO ACTION TEXT
+/*------------------------------------------*/
+
+#call-to-action h2 { font-size: 36px; line-height: 36px; }
+#call-to-action p { font-size: 18px; }
+
+/*------------------------------------------*/
+/*	  CONTACT FORM BUTTON
+/*------------------------------------------*/
+
+#form_btn .btn { padding: 15px 30px;}
+
+}
+
+
+
+@media only screen and (max-width: 640px) {
+
+/*------------------------------------------*/
+/*	 BUTTON SETTINGS
+/*------------------------------------------*/
+
+.btn { padding: 13px 26px; }	
+.btn.btn-small { font-size: 13px; padding: 11px 20px; }
+
+/*------------------------------------------*/
+/*	 SECTION TITLEBAR
+/*------------------------------------------*/
+
+.section-title h3 { font-size: 22px; line-height: 28px; }	
+
+/*------------------------------------------*/
+/*	 INTRO TEXT
+/*------------------------------------------*/
+
+#intro h2 {	font-size: 34px; line-height: 34px; }
+#intro h3 { font-size: 20px; line-height: 20px;  }
+
+.slides-navigation { display: none;}
+
+/*------------------------------------------*/
+/*	  FEATURE BOX
+/*------------------------------------------*/
+
+.feature-box { margin-left: 30px; margin-right: 30px; }
+
+/*------------------------------------------*/
+/*	  MORE FEATURES
+/*------------------------------------------*/ 
+
+#features_left_content, #features_right_content { padding: 0 5%; }
+
+/*------------------------------------------*/
+/*	   Button Settings
+/*------------------------------------------*/ 
+
+#gallery-filter .btn-group > .btn { font-size: 12px; letter-spacing: 0; margin: 0 2px 8px; padding: 8px 16px; }
+
+/*------------------------------------------*/
+/*	 PRICING
+/*------------------------------------------*/
+
+.pricing-table {margin: 0 40px; }
+
+/*------------------------------------------*/
+/*	 TEAM
+/*------------------------------------------*/
+
+.team-member { margin-left: 20px; margin-right: 20px; }
+
+/*------------------------------------------*/
+/*	  NEWSLETTER FORM
+/*------------------------------------------*/
+
+#newsletter { padding: 0 8%; }
+
+/*------------------------------------------*/
+/*	 CALL TO ACTION TEXT
+/*------------------------------------------*/
+
+#call-to-action h2 { font-size: 30px; line-height: 30px; }
+#call-to-action p { font-size: 16px; }
+
+/*------------------------------------------*/
+/*	 CALL TO ACTION BUTTON
+/*------------------------------------------*/
+
+#call-to-action .btn { margin-right: 10px; }
+
+/*------------------------------------------*/
+/*	  CONTACTS
+/*------------------------------------------*/
+
+#contacts.wide { padding-bottom: 70px; }
+
+/*------------------------------------------*/
+/*	  CONTACTS TITLE
+/*------------------------------------------*/  
+   
+#contacts .section-title p {font-size: 16px;line-height: 24px;margin-bottom: 30px;}
+
+/*------------------------------------------*/
+/*	  CONTACT FORM
+/*------------------------------------------*/
+
+#contact-form { margin-bottom: 30px; }
+ 
+/*------------------------------------------*/
+/*	  GOOGLE MAP
+/*------------------------------------------*/
+
+#google-map { padding: 0px 0px 60%; }
+		
+}
+
+
+
+@media (max-width: 480px) {
+
+#top-line, #about, #who-we-are, #banner-1, #features, #promo-banner, #more-features, #portfolio, #founder-banner, 
+#statistic-banner, #pricing, #testimonials, #team, #blog, #call-to-action, #clients-holder, #faqs, #contacts, #footer  { padding-left: 15px; padding-right: 15px; }
+
+/*------------------------------------------*/
+/*	SECTION HEIGHT SETTINGS
+/*------------------------------------------*/
+
+.wide { padding-top: 60px; padding-bottom: 60px; }
+#banner-1 { padding-top: 80px; padding-bottom: 80px; }
+#features.wide { padding-bottom: 40px; }
+#more-features { padding-top: 40px; padding-bottom: 40px; }
+#testimonials.wide { padding-bottom: 70px; }
+#team.wide { padding-bottom: 20px; }
+#call-to-action { padding-top: 160px; padding-bottom: 160px; }
+#faqs.wide { padding-bottom: 30px; }
+#contacts.wide { padding-bottom: 40px; } 
+
+/*------------------------------------------*/
+/*	HEADERS
+/*------------------------------------------*/
+
+h4 { font-size: 13px; line-height: 13px; }
+
+/*------------------------------------------*/
+/*	 PARAGRAPHS
+/*------------------------------------------*/
+
+p {	font-size: 14px; line-height: 20px; }
+
+/*------------------------------------------*/
+/*	 BUTTON SETTINGS
+/*------------------------------------------*/
+
+.btn { font-size: 13px; padding: 12px 20px; letter-spacing: 0; }	
+.btn.btn-small { font-size: 13px; padding: 10px 18px; letter-spacing: 0; }
+
+/*------------------------------------------*/
+/*	 SECTION TITLEBAR
+/*------------------------------------------*/
+
+.section-title h4 { font-size: 13px; margin-bottom: 15px; letter-spacing: 2px; }
+.section-title h3 { font-size: 20px; line-height: 26px; }		
+
+/*------------------------------------------*/
+/*	 Logo Image    
+/*------------------------------------------*/
+
+.navbar-brand { padding: 25px 15px; }
+	
+/*------------------------------------------*/
+/*	 Responsive Menu Button    
+/*------------------------------------------*/
+
+.navbar-toggle { margin: 16px 15px 16px 0; }
+
+/*------------------------------------------*/
+/*	 INTRO CONTENT
+/*------------------------------------------*/
+
+.intro-content { width: 100%; } 
+#intro h2 {	font-size: 26px; line-height: 26px; }
+#intro h3 { font-size: 16px; line-height: 16px; letter-spacing: 1px;  }
+
+/*------------------------------------------*/
+/*	TABS NAV
+/*------------------------------------------*/   
+
+#who-we-are .nav-tabs > li > a { font-size: 14px; padding: 15px 20px; }
+
+/*------------------------------------------*/
+/*	 BANNER-1 TEXT
+/*------------------------------------------*/
+
+.banner-1-text h4, .clients-counter {	font-size: 15px; line-height: 15px; }
+
+/*------------------------------------------*/
+/*	  FEATURE BOX
+/*------------------------------------------*/
+	
+.feature-box { text-align: center; margin-left: 0; margin-right: 0;}
+
+/*------------------------------------------*/
+/*	  Feature Icon
+/*------------------------------------------*/
+
+.feature-box-icon { position: relative; width: auto; height: auto; float: none !important;margin-bottom: 10px;}
+	
+/*------------------------------------------*/
+/*	  Feature Text
+/*------------------------------------------*/
+
+.feature-box-text { padding: 0px;}
+.feature-box-text p {padding-right: 0;}
+
+/*------------------------------------------*/
+/*	  MORE FEATURES
+/*------------------------------------------*/ 
+
+#features_left_content, #features_right_content { padding: 0; }
+
+/*------------------------------------------*/
+/*	 PRICING
+/*------------------------------------------*/
+
+.pricing-table {margin: 0; }
+
+/*------------------------------------------*/
+/*	 TEAM
+/*------------------------------------------*/
+
+.team-member { margin-left: 0px; margin-right: 0px; }
+
+/*------------------------------------------*/
+/*	 Testimonial Message Text
+/*------------------------------------------*/
+
+.client-msg p { font-size: 18px; line-height: 28px; padding: 0; }
+
+/*------------------------------------------*/
+/*	  NEWSLETTER FORM
+/*------------------------------------------*/
+
+#newsletter { margin-top: 30px; padding: 0 2%; }
+
+/*------------------------------------------*/
+/*	  NEWSLETTER FORM
+/*------------------------------------------*/
+
+#newsletter h3 { font-size: 20px; line-height: 20px; }
+#newsletter p { font-size: 14px; }
+
+/*------------------------------------------*/
+/*	  NEWSLETTER FORM INPUT
+/*------------------------------------------*/
+
+.form-control { height: 44px; font-size: 16px; padding: 9px 20px; }
+#newsletter_form .btn { height: 44px; padding: 9px 30px; }
+
+/*------------------------------------------*/
+/*	 CALL TO ACTION TEXT
+/*------------------------------------------*/
+
+#call-to-action h2 { font-size: 24px; line-height: 24px; }
+#call-to-action p { font-size: 16px; line-height: 20px; }
+
+/*------------------------------------------*/
+/*	  CONTACTS
+/*------------------------------------------*/
+
+#contacts.wide { padding-bottom: 40px; }
+
+/*------------------------------------------*/
+/*	  CONTACT FORM
+/*------------------------------------------*/
+
+#contact-form .form-control { height: 46px; font-size: 15px; }
+
+/*------------------------------------------*/
+/*	  CONTACT INFO 
+/*------------------------------------------*/
+
+.contact-data { width: 100%; height: auto; float: none!important; }
+
+/*------------------------------------------*/
+/*	  CONTACT FORM BUTTON
+/*------------------------------------------*/
+
+#form_btn .btn { padding: 14px 28px;}
+
+/*------------------------------------------*/
+/*	 FOOTER SOCIAL ICONS SETTINGS 
+/*------------------------------------------*/
+
+.foo-social { width: 35px; height: 35px; font-size: 14px; line-height: 35px; margin-right: 7px; }
+	
+}
+
+
+
+@media (max-width: 320px) {
+
+#top-line, #about, #who-we-are, #banner-1, #features, #promo-banner, #more-features, #portfolio, #founder-banner, 
+#statistic-banner, #pricing, #testimonials, #team, #blog, #call-to-action, #clients-holder, #faqs, #contacts, #footer  { padding-left: 5px; padding-right: 5px; }
+
+/*------------------------------------------*/
+/*	HEADERS
+/*------------------------------------------*/
+
+h4 { letter-spacing: 0px; }
+
+/*------------------------------------------*/
+/*	 BUTTON SETTINGS
+/*------------------------------------------*/
+
+.btn { font-size: 12px; padding: 11px 16px; letter-spacing: 0; }	
+.btn.btn-small { font-size: 12px; padding: 10px 12px; }
+ 
+/*------------------------------------------*/
+/*	 SECTION TITLEBAR
+/*------------------------------------------*/
+
+.section-title h4 { font-size: 12px; margin-bottom: 15px; letter-spacing: 1px; }
+.section-title h3 { font-size: 18px; line-height: 24px; }	
+
+/*------------------------------------------*/
+/*	 INTRO CONTENT
+/*------------------------------------------*/
+
+.intro-content { width: 100%; } 
+#intro h2 {	font-size: 18px; line-height: 22px; margin-bottom: 5px; }
+#intro h3 { font-size: 14px; line-height: 14px; letter-spacing: 1px;  }
+
+/*------------------------------------------*/
+/*	 TOP LINE BOX ICON
+/*------------------------------------------*/
+
+.top-line-box i { font-size: 40px;line-height: 40px !important;margin-bottom: 10px;}
+
+/*------------------------------------------*/
+/*	 TOP LINE BOX
+/*------------------------------------------*/
+
+.top-line-box h4 { font-size: 13px; line-height: 13px; }
+
+/*------------------------------------------*/
+/*	TAB #2 LIST
+/*------------------------------------------*/  
+
+#tab-pane-list i { font-size: 14px; margin-right: 5px; }
+#tab-pane-list li { font-size: 14px; font-weight: 400; line-height: 18px; }
+
+/*------------------------------------------*/
+/*	TAB #4 CONTENT
+/*------------------------------------------*/  
+
+#tab_4 i {font-size: 60px; line-height: 60px; margin-top: 0px; }
+
+/*------------------------------------------*/
+/*	TABS NAV
+/*------------------------------------------*/   
+
+#who-we-are .nav-tabs > li > a { font-size: 13px; padding: 10px 15px; }
+
+/*------------------------------------------*/
+/*	 BANNER-1 TEXT
+/*------------------------------------------*/
+
+.banner-1-text {padding: 50px 30px; }
+.banner-1-text h4 { font-size: 13px; line-height: 16px; margin-bottom: 20px; }
+
+/*------------------------------------------*/
+/*	 Clients Counter
+/*------------------------------------------*/
+
+.clients-counter {	font-size: 13px;}
+
+/*------------------------------------------*/
+/*	 Portfolio Overlay Content 
+/*------------------------------------------*/
+
+.portfolio-item:hover .overlay-content { bottom: 40%; }
+
+/*------------------------------------------*/
+/*	  FOUNDER BANNER MESSAGE AVATAR
+/*------------------------------------------*/ 
+
+.fb-message-avatar { float: none !important; }
+
+/*------------------------------------------*/
+/*	  FOUNDER BANNER MESSAGE TEXT
+/*------------------------------------------*/ 
+
+.fb-message-text {padding-left: 0;}
+
+/*------------------------------------------*/
+/*	 Testimonial Message Text
+/*------------------------------------------*/
+
+.client-msg p { font-size: 16px; line-height: 26px; }
+
+/*------------------------------------------*/
+/*	  NEWSLETTER FORM
+/*------------------------------------------*/
+
+#newsletter { padding: 0; }
+
+/*------------------------------------------*/
+/*	  NEWSLETTER FORM INPUT
+/*------------------------------------------*/
+
+.form-control { height: 44px; font-size: 16px; padding: 9px 10px; }
+#newsletter_form .btn { height: 44px; padding: 9px 20px; }
+
+/*------------------------------------------*/
+/*	  FAQs Question
+/*------------------------------------------*/
+
+#faqs_column_1 h3, #faqs_column_2 h3 { font-size: 17px; }
+.question p { font-size: 15px; line-height: 22px; }
+
+/*------------------------------------------*/
+/*	  CONTACTS TITLE
+/*------------------------------------------*/  
+   
+#contacts .section-title p {font-size: 15px;line-height: 22px;}
+
+/*------------------------------------------*/
+/*	  CONTACT INFO 
+/*------------------------------------------*/
+
+.contact-data p { font-size: 15px; line-height: 20px; }
+	
+}
+
+
